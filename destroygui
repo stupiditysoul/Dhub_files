@@ -1,1 +1,1 @@
-game.Players.localplayer.PlayerGui:FindFirstChild("D:"):Destroy()
+game.Players.LocalPlayer.PlayerGui:FindFirstChild("D:"):Destroy()
