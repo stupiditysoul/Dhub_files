@@ -5,4 +5,4 @@ if sval=="printtest" then
   print("D: - Print Test")
 elseif sval=="dgui" then
   gui.Parent:Destroy()
-ed
+end
