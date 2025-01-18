@@ -1,1 +1,8 @@
+local gui=game.Players.LocalPlayer.PlayerGui:WaitForChild("D:")
+local sval=gui.Main.spull.Value
 
+if sval=="printtest" then
+  print("D: - Print Test")
+elseif sval=="dgui" then
+  gui.Parent:Destroy()
+ed
